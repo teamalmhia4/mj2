@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@700&family=Reem+Kufi:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@700&display=swap');
+
 body {
-  font-family: 'Cairo Play', cursive;
+ font-family: 'El Messiri', sans-serif;
+/* font-family: 'Cairo Play', cursive;*/
   color: #0c0c0c;
   background-color: #ffffff;
 }
@@ -271,7 +276,7 @@ a:focus {
   text-transform: uppercase;
   font-size: 5rem;
   margin-bottom: 30px;
-  font-family: 'Reem Kufi', sans-serif;
+ font-family: 'Aref Ruqaa', serif;
 }
 
 .slider_section .detail_box a {
